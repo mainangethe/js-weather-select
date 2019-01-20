@@ -26,9 +26,9 @@ In the JavaScript, we are storing a reference to:
 3. `<p>` element to update users based on selection.
 
 
-We have an event listener to the <select> element so that when its value is changed, the `weatherSelect()` function is run.
+We have an event listener to the `<select>` element so that when its value is changed, the `weatherSelect()` function is run.
 
-
+#### How the weatherSelect() works
 When this function is run, we first set a variable called `'user_choice'` to the current value selected in the `<select>` element.  
 We then use a conditional statement to show different text inside the paragraph depending on what the value of choice is.  
 Notice how all the conditions are tested in `else if() {...}` blocks, except for the first one, which is tested in an `if() {...}` block.  
