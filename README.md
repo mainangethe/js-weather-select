@@ -1,6 +1,7 @@
 # Weather Select
 This is a MDN project to help get more experience in using conditionals in JS.
-The objective of the project is to avail options to the user and based on their selection; the page should display different content.
+The objective of the project is to avail options to the user and based on their selection;
+the page should display different content.
 
 > Link: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
 
@@ -8,15 +9,19 @@ The objective of the project is to avail options to the user and based on their 
 The project took me a total of: **2 Hours 30 Mins** to complete.
 
 ### HTML Overview:
-Here we've got an HTML <select> element allowing us to make different weather choices, and a simple title and paragraph for response.
+Here we've got an HTML <select> element allowing us to make different weather choices,
+and a simple title and paragraph for response.
+
 
 ### CSS Overview:
 Here we position the body tag to be at the center of the page both vertically and horizontally.
 We also add a background gradient.
 
 
+
 ### JS Overview:
 In the JavaScript, we are storing a reference to:
+
 - <body> element to manage the background and foreground color changes.
 - <select> element to monitor user selection
 - <p> element to update users based on selection.
