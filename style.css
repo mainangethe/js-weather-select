@@ -1,0 +1,26 @@
+* { margin: 0; }
+html {
+  font-family: monospace;
+  height:100%;
+  position: relative;
+ }
+
+body {
+  width: 400px;
+  background: linear-gradient(70deg, #ff9a9e, #fecfef);
+  font-size: 16px;
+  vertical-align: middle;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translateY(-50%);
+}
+
+.title, .weather-options, .weather-guide { margin-bottom: 40px; }
+
+select { padding: 5px; }
+
+.weather-guide p {
+  font-weight: bold;
+  font-size: 18px;
+}
