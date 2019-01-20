@@ -3,13 +3,13 @@ This is a MDN project to help get more experience in using conditionals in JS.
 The objective of the project is to avail options to the user and based on their selection;
 the page should display different content.
 
-> Link: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
+> [Visit Mozilla Developer Network] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ## Documentation
 The project took me a total of: **2 Hours 30 Mins** to complete.
 
 ### HTML Overview
-Here we've got an HTML <select> element allowing us to make different weather choices,
+Here we've got an HTML `<select>` element allowing us to make different weather choices,
 and a simple title and paragraph for response.
 
 
@@ -22,9 +22,9 @@ We also add a background gradient.
 ### JS Overview
 In the JavaScript, we are storing a reference to:
 
-- `<body>` element to manage the background and foreground color changes.
-- `<select>` element to monitor user selection
-- `<p>` element to update users based on selection.
+1. `<body>` element to manage the background and foreground color changes.
+2. `<select>` element to monitor user selection
+3. `<p>` element to update users based on selection.
 
 We have an event listener to the <select> element so that when its value is changed, the `weatherSelect()` function is run.
 
