@@ -14,7 +14,7 @@ and a simple title and paragraph for response.
 
 
 ### CSS Overview
-Here we position the body tag to be at the center of the page both vertically and horizontally.
+Here we position the `<body>` element to be at the center of the page both vertically and horizontally.  
 We also add a background gradient.  
 
 
