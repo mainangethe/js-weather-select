@@ -3,7 +3,7 @@ This is a MDN project to help get more experience in using conditionals in JS.
 The objective of the project is to avail options to the user and based on their selection;
 the page should display different content.
 
-> [Visit Mozilla Developer Network] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+> [Visit Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ## Documentation
 The project took me a total of: **2 Hours 30 Mins** to complete.
